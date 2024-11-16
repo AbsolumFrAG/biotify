@@ -1,0 +1,7 @@
+node_modules
+.pnpm-store
+pnpm-debug.log
+.env
+.git
+.gitignore
+README.md
